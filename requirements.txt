@@ -1,0 +1,11 @@
+crewai
+fastapi
+uvicorn
+streamlit
+scikit-learn
+chromadb
+pandas
+numpy
+joblib
+pydantic
+sentence-transformers
